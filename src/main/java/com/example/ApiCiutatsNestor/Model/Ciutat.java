@@ -1,4 +1,4 @@
-package com.example.ApiCiutatsNestor;
+package com.example.ApiCiutatsNestor.Model;
 
 import jakarta.persistence.*;
 

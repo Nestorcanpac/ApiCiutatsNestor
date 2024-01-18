@@ -1,6 +1,8 @@
-package com.example.ApiCiutatsNestor;
+package com.example.ApiCiutatsNestor.Controller;
 
 
+import com.example.ApiCiutatsNestor.Model.Ciutat;
+import com.example.ApiCiutatsNestor.Model.CiutatRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
